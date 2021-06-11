@@ -2,8 +2,6 @@ import javax.swing.JOptionPane;
 /**
  * 
  * @author Redwanul Haque
- * @version 1
- * @lab 11B
  *
  */
 public class Project0 {
